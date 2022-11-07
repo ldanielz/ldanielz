@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lizandro Daniel</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldanielz" alt="ldanielz" /></a> </p>
 
 - 🌱 I’m currently learning **React, NextJs**
 
